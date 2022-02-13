@@ -21,12 +21,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="35" height="35"/>
   <img src="https://img.icons8.com/color/48/000000/delphi-ide.png" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="35" height="35"/>
+  <img src="https://img.icons8.com/ios/50/000000/sql.png" width="35" height="35"/>
 </p>
 
 ## 🔧 Tools
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="35" height="35"//>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="35" height="35"/>
+  <img src="https://img.icons8.com/color/48/000000/jira.png" width="35" height="35"/>
 </p>
 
 
