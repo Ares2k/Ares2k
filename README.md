@@ -3,7 +3,7 @@
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently working on a social chat platform for university students.
 - 💞️ I’m looking to collaborate on any web development projects.
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/tsult/) or email: tsultanov2k@gmail.com.<br><br>
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/tsult/).<br><br>
 
 ## 💻 Languages & Technologies
 <p float="left">
