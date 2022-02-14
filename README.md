@@ -3,7 +3,7 @@
 
 - 🔨 Aspiring full stack/backend developer.
 - 📖 Currently a final year student in **Technological University Dublin**.
-- 🚀 I’m currently working on a social chat platform for university students.
+- 🚀 I’m currently working on a social platform for university students.
 - ❤️ Passion for learning new technologies and expanding my knowledge.<br><br>
 
 <!-- Connect with me: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>](https://www.linkedin.com/in/tsult/) -->
