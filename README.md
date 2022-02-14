@@ -1,7 +1,8 @@
 ## Hi there, I'm Timur! I'm an Aspiring full stack developer with passion in learning new technology. 👋
 - 📖 Currently a final year student in Technological University Dublin.
-- 👀 I’m interested in full stack development.
+- 🚀 I’m interested in full stack/backend development.
 - 🌱 I’m currently working on a social chat platform for university students.
+- ❤️ Passion for learning new technologies and growing my knowledge.
 
 Connect with me: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>](https://www.linkedin.com/in/tsult/)
 
