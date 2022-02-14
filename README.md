@@ -40,4 +40,4 @@ Connect with me: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/l
 
 <!-- <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/><img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/><img src="https://img.icons8.com/color/48/000000/delphi-ide.png"/> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ares2k)](https://github.com/Ares2k/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ares2k)](https://github.com/anuraghazra/github-readme-stats)
