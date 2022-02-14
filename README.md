@@ -5,7 +5,26 @@
 
 Connect with me: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>](https://www.linkedin.com/in/tsult/)
 
-## 💻 Languages & Technologies
+**💻 Languages/Technologies:**
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/>
+  <img src="https://img.icons8.com/color/48/000000/delphi-ide.png" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/>
+</p><br>
+
+**🛠️ Tools:**
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="25" height="25"//>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="25" height="25" />
+</p>
+
+<!-- ## 💻 Languages & Technologies
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="35" height="35"/> 
@@ -22,11 +41,11 @@ Connect with me: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/l
   <img src="https://img.icons8.com/color/48/000000/delphi-ide.png" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="35" height="35"/>
   <img src="https://img.icons8.com/ios/50/000000/sql.png" width="35" height="35"/>
-</p><br>
+</p><br> -->
 
-## 🛠️ Tools
+<!-- ## 🛠️ Tools
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="35" height="35"//>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35" height="35" />
-</p>
+</p> -->
