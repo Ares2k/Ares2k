@@ -33,4 +33,4 @@ Connect with me: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="45" height="45"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ares2k)](https://github.com/Ares2k/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ares2k)](https://github.com/ares2k/github-readme-stats)
