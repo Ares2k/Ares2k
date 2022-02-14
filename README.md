@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on a social chat platform for university students.
 - ❤️ Passion for learning new technologies and growing my knowledge.
 
-Connect with me: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>](https://www.linkedin.com/in/tsult/)
+<!-- Connect with me: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>](https://www.linkedin.com/in/tsult/) -->
 
 **💻 Languages/Technologies:**
 <p float="left">
