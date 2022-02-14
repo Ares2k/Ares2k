@@ -2,7 +2,11 @@
 - 📖 Currently a final year student in Technological University Dublin.
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently working on a social chat platform for university students.
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/tsult/).<br><br>
+<!-- - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/tsult/).<br><br> -->
+
+Connect with me: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>](https://www.linkedin.com/in/tsult/)
+
+<!-- Connect with me on [LinkedIn](https://www.linkedin.com/in/a-ri/)<br><br> -->
 
 ## 💻 Languages & Technologies
 <p float="left">
