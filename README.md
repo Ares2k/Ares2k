@@ -2,7 +2,7 @@
 ![_Hi there, I'm Timur! ](https://user-images.githubusercontent.com/40499701/153960813-36cbcf83-bf25-4713-a308-9ade7b14f81b.gif)
 
 - 🚀 Aspiring full stack/backend developer.
-- 📖 Currently a final year student in **Technological University Dublin**.
+- 📖 Final year BSc Computer Science student in **Technological University Dublin**.
 - 🔨 I’m currently working on a social platform for university students.
 - ❤️ Passion for learning new technologies and expanding my knowledge.<br><br>
 
