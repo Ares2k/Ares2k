@@ -1,8 +1,8 @@
 <!-- ## Hi there, I'm Timur! I'm an Aspiring full stack developer with passion in learning new technology. 👋 -->
 ![_Hi there, I'm Timur! ](https://user-images.githubusercontent.com/40499701/153960813-36cbcf83-bf25-4713-a308-9ade7b14f81b.gif)
 
-- 🚀 Full stack software engineer.
-- 📖 1:1 BSc. Computer Science Graduate in **Technological University Dublin**.
+- 🚀 Backend software engineer.
+- 📖 First Class Honours BSc. Computer Science Graduate at **Technological University Dublin**.
 - ❤️ Passion for learning new technologies and expanding my knowledge.
 <!-- - 🔨 I’m currently working on a social platform for university students.-->
 <br><br>
